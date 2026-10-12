@@ -157,7 +157,7 @@ int main()
 
 ##### Output 1
 
-![Screenshot Output Unguided1](https://github.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/blob/main/Minggu 4/unguided1/ss-output-unguided1.png)
+![Screenshot Output Unguided 1](https://raw.githubusercontent.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/main/Minggu%204/unguided1/ss-output-unguided1.png)
 
 penjelasan unguided 1
 Kode tersebut digunakan untuk menginput dan menampilkan data mahasiswa yang terdiri dari nama, NIM, nilai UTS, UAS, dan tugas menggunakan struct Mahasiswa dan array dengan kapasitas maksimal 10 mahasiswa. Program menghitung nilai akhir setiap mahasiswa menggunakan rumus UTS 30%, UAS 40%, dan tugas 30%. Setelah semua data dimasukkan, program menampilkan kembali seluruh data mahasiswa beserta nilai akhirnya dengan dua angka di belakang koma menggunakan iomanip dan setprecision(2). Berdasarkan output, mahasiswa pertama bernama Dedi memperoleh nilai akhir 83,20, sedangkan mahasiswa kedua bernama Lia memperoleh nilai akhir 80,50.
