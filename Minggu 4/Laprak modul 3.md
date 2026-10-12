@@ -230,7 +230,7 @@ int main()
 
 ### Output Unguided 2 :
 
-![Screenshot Output Unguided 2](https://github.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/blob/main/Minggu 4/unguided2/ss-output-unguided2.png)
+![Screenshot Output Unguided 2](https://raw.githubusercontent.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/main/Minggu%204/unguided2/ss-output-unguided2.png)
 
 penjelasan unguided 2
 Program ini digunakan untuk membuat dan menampilkan data pelajaran dengan menerapkan konsep Abstract Data Type (ADT) menggunakan struct dan fungsi yang dipisahkan ke dalam file main.cpp, pelajaran.cpp, dan pelajaran.h. Pada pelajaran.h, didefinisikan struktur pelajaran yang memiliki atribut namapel dan kodeMapel, beserta deklarasi fungsi. Pada pelajaran.cpp, fungsi create_pelajaran() digunakan untuk membuat objek pelajaran dan mengisi atributnya, sedangkan tampil_pelajaran() digunakan untuk menampilkan data pelajaran. Sementara itu, main.cpp menentukan nama pelajaran Struktur Data dan kode STD, kemudian memanggil kedua fungsi tersebut. Berdasarkan output, program berhasil menampilkan nama pelajaran Struktur Data dan kode pelajaran STD.
