@@ -317,7 +317,7 @@ int main()
 ```
 ### Output Unguided 3 :
 
-![Screenshot Output Unguided 3](https://github.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/blob/main/Minggu 4/unguided3/ss-output-unguided3.png)
+![Screenshot Output Unguided 3](https://raw.githubusercontent.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/main/Minggu%204/unguided3/ss-output-unguided3.png)
 
 penjelasan unguided 3
 Program ini bertujuan untuk menunjukkan proses pertukaran nilai pada array dua dimensi dan pointer dalam C++. Fungsi tampilArray() digunakan untuk menampilkan isi array A dan B berukuran 3×3, sedangkan fungsi tukarArray() menukar elemen pada indeks baris 1 dan kolom 1, yaitu nilai 5 pada array A dengan nilai 50 pada array B. Setelah ditukar, nilai tersebut berubah menjadi 50 pada array A dan 5 pada array B. Selanjutnya, fungsi tukarPointer() menukar nilai variabel yang ditunjuk oleh pointer p1 dan p2, sehingga nilai awal 100 dan 200 berubah menjadi 200 dan 100. Berdasarkan output, program berhasil melakukan pertukaran elemen array dan nilai melalui pointer sesuai dengan yang diharapkan.
