@@ -155,8 +155,6 @@ int main()
 ```
 ### Output Unguided 1 :
 
-##### Output 1
-
 ![Screenshot Output Unguided 1](https://raw.githubusercontent.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/main/Minggu%204/unguided1/ss-output-unguided1.png)
 
 penjelasan unguided 1
