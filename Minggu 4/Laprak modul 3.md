@@ -163,8 +163,8 @@ Kode tersebut digunakan untuk menginput dan menampilkan data mahasiswa yang terd
 
 ### 2. Pelajaran
 
-```Pelajaran.h
-s#ifndef PELAJARAN_H
+```C++
+#ifndef PELAJARAN_H
 #define PELAJARAN_H
 
 #include <string>
