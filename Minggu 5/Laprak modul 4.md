@@ -673,7 +673,9 @@ Penjelasan unguided 2 : Program melanjutkan kode sebelumnya dengan menambahkan b
 
 
 ## Kesimpulan
-...
+Berdasarkan praktikum Modul 4 tentang Singly Linked List, saya memahami bahwa Singly Linked List merupakan struktur data yang setiap nodenya saling terhubung menggunakan pointer next. Struktur data ini memungkinkan penambahan dan penghapusan data dengan lebih fleksibel sesuai kebutuhan. Melalui praktikum ini, saya belajar bagaimana membuat list, menghubungkan setiap node, serta mengelola data yang tersimpan di dalamnya.
+
+Pada bagian Guided dan Unguided, saya mempraktikkan beberapa operasi dasar, seperti insertFirst() untuk menambahkan data di awal list, serta deleteFirst(), deleteLast(), dan deleteAfter() untuk menghapus node pada posisi tertentu. Selain itu, saya juga mempelajari fungsi printInfo() untuk menampilkan data, nbList() untuk menghitung jumlah node, dan deleteList() untuk menghapus seluruh isi list. Dari praktikum ini, saya menjadi lebih memahami cara kerja pointer dan hubungan antar-node, serta mengetahui bahwa setiap operasi perlu dilakukan dengan tepat agar data di dalam list tetap terhubung dan dapat dikelola dengan baik.
 
 ## Referensi
 [1] Modul 4 SINGLY LINKED LIST (BAGIAN PERTAMA)
