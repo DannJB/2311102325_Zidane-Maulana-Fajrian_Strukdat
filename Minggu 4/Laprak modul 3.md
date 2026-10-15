@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 3 - ABSTRACT DATA TYPE (ADT)</h1>
-<p align="center">Zidane Maulana Fajrian - 2311102325</p>
+<p align="center">Zidane Maulana Fajrian - 2311102325 - S1IF-13-01</p>
 
 ## Dasar Teori
 Abstract Data Type (ADT) adalah tipe data yang terdiri dari definisi tipe (type) dan sekumpulan operasi dasar (primitif) yang dapat dilakukan terhadap tipe tersebut. ADT juga mencakup invarian dan aksioma sebagai aturan yang harus dipenuhi. ADT memungkinkan data dikelola melalui operasi tertentu tanpa harus mengetahui detail implementasinya..[1]

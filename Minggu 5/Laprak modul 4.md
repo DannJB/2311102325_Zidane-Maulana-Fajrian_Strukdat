@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 4 - SINGLY LINKED LIST (BAGIAN PERTAMA)</h1>
-<p align="center">Zidane Maulana Fajrian - 2311102325</p>
+<p align="center">Zidane Maulana Fajrian - 2311102325 - S1IF-13-01</p>
 
 ## Dasar Teori
 Singly Linked List adalah struktur data yang terdiri dari beberapa node yang saling terhubung menggunakan pointer. Setiap node menyimpan data dan memiliki pointer next untuk menghubungkannya dengan node berikutnya. Node pertama ditunjuk oleh first, sedangkan node terakhir menunjuk ke NULL. Struktur data ini bersifat dinamis sehingga data dapat ditambahkan atau dihapus sesuai kebutuhan. Operasi yang dapat dilakukan pada Singly Linked List meliputi penambahan, penghapusan, penampilan, pencarian, dan perubahan data.[1]
