@@ -666,7 +666,7 @@ int main()
 ### Output Unguided 2 :
 
 ##### Output 
-![Screenshot Output Unguided 2](https://raw.githubusercontent.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/main/Minggu%205/unguided/unguided1/unguided-2.png)
+![Screenshot Output Unguided 2](https://raw.githubusercontent.com/DannJB/2311102325_Zidane-Maulana-Fajrian_Strukdat/main/Minggu%205/unguided/unguided2/unguided-2.png)
 
 
 Penjelasan unguided 2 : Program melanjutkan kode sebelumnya dengan menambahkan beberapa fungsi untuk menghapus node. Fungsi deleteFirst() digunakan untuk menghapus data 9 di awal list, deleteLast() untuk menghapus data 2 di akhir list, dan deleteAfter() untuk menghapus data 8 yang berada setelah node 12. Setelah ketiga penghapusan dilakukan, tersisa data 12 dan 0. Fungsi nbList() kemudian menghitung jumlah node yang tersisa, yaitu 2, sedangkan deleteList() digunakan untuk menghapus semua node hingga list kosong dan jumlah node menjadi 0.
